@@ -1,0 +1,217 @@
+Range 0 to 8:
+Fib(0) = 0, lg does not exist
+No prime factors
+Fib(1) = 1, lg is 0.000000
+No prime factors
+Fib(2) = 1, lg is 0.000000
+No prime factors
+Fib(3) = 2, lg is 1.000000
+Prime factors: 2
+Fib(4) = 3, lg is 1.584963
+Prime factors: 3
+Fib(5) = 5, lg is 2.321928
+Prime factors: 5
+Fib(6) = 8, lg is 3.000000
+Prime factors: 2 2 2
+
+Range 9 to 12:
+No Fibonacci numbers in the range
+
+Range 9 to 64:
+Fib(7) = 13, lg is 3.700440
+Prime factors: 13
+Fib(8) = 21, lg is 4.392317
+Prime factors: 3 7
+Fib(9) = 34, lg is 5.087463
+Prime factors: 2 17
+Fib(10) = 55, lg is 5.781360
+Prime factors: 5 11
+
+Range 0 to 9223372036854775807:
+Fib(0) = 0, lg does not exist
+No prime factors
+Fib(1) = 1, lg is 0.000000
+No prime factors
+Fib(2) = 1, lg is 0.000000
+No prime factors
+Fib(3) = 2, lg is 1.000000
+Prime factors: 2
+Fib(4) = 3, lg is 1.584963
+Prime factors: 3
+Fib(5) = 5, lg is 2.321928
+Prime factors: 5
+Fib(6) = 8, lg is 3.000000
+Prime factors: 2 2 2
+Fib(7) = 13, lg is 3.700440
+Prime factors: 13
+Fib(8) = 21, lg is 4.392317
+Prime factors: 3 7
+Fib(9) = 34, lg is 5.087463
+Prime factors: 2 17
+Fib(10) = 55, lg is 5.781360
+Prime factors: 5 11
+Fib(11) = 89, lg is 6.475733
+Prime factors: 89
+Fib(12) = 144, lg is 7.169925
+Prime factors: 2 2 2 2 3 3
+Fib(13) = 233, lg is 7.864186
+Prime factors: 233
+Fib(14) = 377, lg is 8.558421
+Prime factors: 13 29
+Fib(15) = 610, lg is 9.252665
+Prime factors: 2 5 61
+Fib(16) = 987, lg is 9.946906
+Prime factors: 3 7 47
+Fib(17) = 1597, lg is 10.641149
+Prime factors: 1597
+Fib(18) = 2584, lg is 11.335390
+Prime factors: 2 2 2 17 19
+Fib(19) = 4181, lg is 12.029632
+Prime factors: 37 113
+Fib(20) = 6765, lg is 12.723874
+Prime factors: 3 5 11 41
+Fib(21) = 10946, lg is 13.418116
+Prime factors: 2 13 421
+Fib(22) = 17711, lg is 14.112358
+Prime factors: 89 199
+Fib(23) = 28657, lg is 14.806600
+Prime factors: 28657
+Fib(24) = 46368, lg is 15.500842
+Prime factors: 2 2 2 2 2 3 3 7 23
+Fib(25) = 75025, lg is 16.195084
+Prime factors: 5 5 3001
+Fib(26) = 121393, lg is 16.889326
+Prime factors: 233 521
+Fib(27) = 196418, lg is 17.583568
+Prime factors: 2 17 53 109
+Fib(28) = 317811, lg is 18.277810
+Prime factors: 3 13 29 281
+Fib(29) = 514229, lg is 18.972051
+Prime factors: 514229
+Fib(30) = 832040, lg is 19.666293
+Prime factors: 2 2 2 5 11 31 61
+Fib(31) = 1346269, lg is 20.360535
+Prime factors: 557 2417
+Fib(32) = 2178309, lg is 21.054777
+Prime factors: 3 7 47 2207
+Fib(33) = 3524578, lg is 21.749019
+Prime factors: 2 89 19801
+Fib(34) = 5702887, lg is 22.443261
+Prime factors: 1597 3571
+Fib(35) = 9227465, lg is 23.137503
+Prime factors: 5 13 141961
+Fib(36) = 14930352, lg is 23.831745
+Prime factors: 2 2 2 2 3 3 3 17 19 107
+Fib(37) = 24157817, lg is 24.525987
+Prime factors: 73 149 2221
+Fib(38) = 39088169, lg is 25.220229
+Prime factors: 37 113 9349
+Fib(39) = 63245986, lg is 25.914471
+Prime factors: 2 233 135721
+Fib(40) = 102334155, lg is 26.608712
+Prime factors: 3 5 7 11 41 2161
+Fib(41) = 165580141, lg is 27.302954
+Prime factors: 2789 59369
+Fib(42) = 267914296, lg is 27.997196
+Prime factors: 2 2 2 13 29 211 421
+Fib(43) = 433494437, lg is 28.691438
+Prime factors: 433494437
+Fib(44) = 701408733, lg is 29.385680
+Prime factors: 3 43 89 199 307
+Fib(45) = 1134903170, lg is 30.079922
+Prime factors: 2 5 17 61 109441
+Fib(46) = 1836311903, lg is 30.774164
+Prime factors: 139 461 28657
+Fib(47) = 2971215073, lg is 31.468406
+Prime factors: 2971215073
+Fib(48) = 4807526976, lg is 32.162648
+Prime factors: 2 2 2 2 2 2 3 3 7 23 47 1103
+Fib(49) = 7778742049, lg is 32.856890
+Prime factors: 13 97 6168709
+Fib(50) = 12586269025, lg is 33.551132
+Prime factors: 5 5 11 101 151 3001
+Fib(51) = 20365011074, lg is 34.245374
+Prime factors: 2 1597 6376021
+Fib(52) = 32951280099, lg is 34.939615
+Prime factors: 3 233 521 90481
+Fib(53) = 53316291173, lg is 35.633857
+Prime factors: 953 55945741
+Fib(54) = 86267571272, lg is 36.328099
+Prime factors: 2 2 2 17 19 53 109 5779
+Fib(55) = 139583862445, lg is 37.022341
+Prime factors: 5 89 661 474541
+Fib(56) = 225851433717, lg is 37.716583
+Prime factors: 3 7 7 13 29 281 14503
+Fib(57) = 365435296162, lg is 38.410825
+Prime factors: 2 37 113 797 54833
+Fib(58) = 591286729879, lg is 39.105067
+Prime factors: 59 19489 514229
+Fib(59) = 956722026041, lg is 39.799309
+Prime factors: 353 2710260697
+Fib(60) = 1548008755920, lg is 40.493551
+Prime factors: 2 2 2 2 3 3 5 11 31 41 61 2521
+Fib(61) = 2504730781961, lg is 41.187793
+Prime factors: 4513 555003497
+Fib(62) = 4052739537881, lg is 41.882035
+Prime factors: 557 2417 3010349
+Fib(63) = 6557470319842, lg is 42.576277
+Prime factors: 2 13 17 421 35239681
+Fib(64) = 10610209857723, lg is 43.270518
+Prime factors: 3 7 47 1087 2207 4481
+Fib(65) = 17167680177565, lg is 43.964760
+Prime factors: 5 233 14736206161
+Fib(66) = 27777890035288, lg is 44.659002
+Prime factors: 2 2 2 89 199 9901 19801
+Fib(67) = 44945570212853, lg is 45.353244
+Prime factors: 269 116849 1429913
+Fib(68) = 72723460248141, lg is 46.047486
+Prime factors: 3 67 1597 3571 63443
+Fib(69) = 117669030460994, lg is 46.741728
+Prime factors: 2 137 829 18077 28657
+Fib(70) = 190392490709135, lg is 47.435970
+Prime factors: 5 11 13 29 71 911 141961
+Fib(71) = 308061521170129, lg is 48.130212
+Prime factors: 6673 46165371073
+Fib(72) = 498454011879264, lg is 48.824454
+Prime factors: 2 2 2 2 2 3 3 3 7 17 19 23 107 103681
+Fib(73) = 806515533049393, lg is 49.518696
+Prime factors: 9375829 86020717
+Fib(74) = 1304969544928657, lg is 50.212938
+Prime factors: 73 149 2221 54018521
+Fib(75) = 2111485077978050, lg is 50.907179
+Prime factors: 2 5 5 61 3001 230686501
+Fib(76) = 3416454622906707, lg is 51.601421
+Prime factors: 3 37 113 9349 29134601
+Fib(77) = 5527939700884757, lg is 52.295663
+Prime factors: 13 89 988681 4832521
+Fib(78) = 8944394323791464, lg is 52.989905
+Prime factors: 2 2 2 79 233 521 859 135721
+Fib(79) = 14472334024676221, lg is 53.684147
+Prime factors: 157 92180471494753
+Fib(80) = 23416728348467685, lg is 54.378389
+Prime factors: 3 5 7 11 41 47 1601 2161 3041
+Fib(81) = 37889062373143906, lg is 55.072631
+Prime factors: 2 17 53 109 2269 4373 19441
+Fib(82) = 61305790721611591, lg is 55.766873
+Prime factors: 2789 59369 370248451
+Fib(83) = 99194853094755497, lg is 56.461115
+Prime factors: 99194853094755497
+Fib(84) = 160500643816367088, lg is 57.155357
+Prime factors: 2 2 2 2 3 3 13 29 83 211 281 421 1427
+Fib(85) = 259695496911122585, lg is 57.849599
+Prime factors: 5 1597 9521 3415914041
+Fib(86) = 420196140727489673, lg is 58.543841
+Prime factors: 6709 144481 433494437
+Fib(87) = 679891637638612258, lg is 59.238082
+Prime factors: 2 173 514229 3821263937
+Fib(88) = 1100087778366101931, lg is 59.932324
+Prime factors: 3 7 43 89 199 263 307 881 967
+Fib(89) = 1779979416004714189, lg is 60.626566
+Prime factors: 1069 1665088321800481
+Fib(90) = 2880067194370816120, lg is 61.320808
+Prime factors: 2 2 2 5 11 17 19 31 61 181 541 109441
+Fib(91) = 4660046610375530309, lg is 62.015050
+Prime factors: 13 13 233 741469 159607993
+Fib(92) = 7540113804746346429, lg is 62.709292
+Prime factors: 3 139 461 4969 28657 275449
+
